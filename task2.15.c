@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    //Братков Павел 2.15
     double d = 3.2, x; int i = 2, y;
     x = ( y = d / i ) * 2;
     printf ("x = %f ;y = %d\n", x, y);
